@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: admin1
+Build-Jdk: 17.0.2
+Implementation-Title: SELENIUMJAVAFRAMEWORK
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: SELENIUMJAVAFRAMEWORK
+Implementation-Vendor: Pivotal Software, Inc.
+Main-Class: cn.withdata.v2.TadalinApplication
+Created-By: Maven Integration for Eclipse
+
